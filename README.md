@@ -2,7 +2,7 @@
 
 Hello Everyone !
 <br>
-Welcome to my "UnderGrad Capstone Project" repository. Here I Have mentioned some key information about my <b>Capstone Project</b>, carried out during my bachelor years. Before we dive in, let us go through some basics 🔽
+Welcome to my "UnderGrad Capstone Project" repository. Here I have mentioned some key information about my <b>Capstone Project</b>, carried out during my bachelor years. Before we dive in, let us go through some basics 🔽
 <br>
 ### What is a Capstone Project ?🤔
 The <b>[capstone project](https://www.topuniversities.com/student-info/careers-advice-articles/what-capstone-project-why-it-important)</b> has become an essential component of the university degree curriculum. It can appear in various formats, but its objective remains consistent. The capstone project offers a unique chance to conduct independent group research to develop an innovative solution for a real-world issue. Although undertaking a project of this magnitude can be demanding, it is also highly rewarding. Typically the final assignment, the capstone project is crucial in readying students for the professional world due to its practical applications and its role in enhancing students’ professional knowledge and skills.
